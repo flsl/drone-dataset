@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角智慧电力风力发电机叶片中心识别分割数据集labelme格式798张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp9saw==">下载</a></td></tr>
 <tr><td>无人机视角地理要素田地道路森林水体电力线识别分割数据集labelme格式1536张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp1yZA==">下载</a></td></tr>
 <tr><td>无人机视角动物牛羊斑马骆驼海豹驴检测数据集VOC+YOLO格式10000张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5xvaw==">下载</a></td></tr>
 <tr><td>无人机视角城市街道行人与车辆检测数据集VOC+YOLO格式5291张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5xtbA==">下载</a></td></tr>
